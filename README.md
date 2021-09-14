@@ -6,7 +6,7 @@
 | `andykuo8766` | `郭紘安` | andykuo8766@gapp.nthu.edu.tw |
 
 ## Labs
-* **Lab 0: [Environment Setup](https://hackmd.io/@AndyKuo/OSDI_Lab0)**
+* **Lab 0: [Bare Minimum](https://hackmd.io/@AndyKuo/Lab0)**
 * **Lab 1: [Hello World]()**
 * **Lab 2: [Bootloader]()**
 * **Lab 3: [Exception and Interrupt]()**
