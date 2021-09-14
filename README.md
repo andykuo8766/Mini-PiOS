@@ -1,5 +1,4 @@
 # My Bare Metal Programming on Raspberry Pi 3 B+
-## My OSC 2021
 
 ## Author
 | GitHub 帳號 | 姓名 | Email |
