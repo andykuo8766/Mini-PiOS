@@ -7,7 +7,7 @@
 
 ## Labs
 * **Lab 0: [Bare Minimum](https://hackmd.io/@AndyKuo/Lab0)**
-* **Lab 1: [Multicore C]()**
+* **Lab 1: [Multicore C](https://hackmd.io/@AndyKuo/Lab1)**
 * **Lab 2: [Bootloader]()**
 * **Lab 3: [Exception and Interrupt]()**
 * **Lab 4: [Multitasking]()**
