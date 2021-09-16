@@ -8,13 +8,8 @@
 ## Labs
 * **Lab 0: [Bare Minimum](https://hackmd.io/@AndyKuo/Lab0)**
 * **Lab 1: [Multicore C](https://hackmd.io/@AndyKuo/Lab1)**
-* **Lab 2: [Bootloader]()**
-* **Lab 3: [Exception and Interrupt]()**
-* **Lab 4: [Multitasking]()**
-* **Lab 5: [Virtual memory]()**
-* **Lab 6: [Allocator]()**
-* **Lab 7: [Virtual File System]()**
-* **Lab 8: [File System Meets Hardware]()**
+* **Lab 2: [UART1](https://hackmd.io/@AndyKuo/Lab2)**
+
 
 ## Reference
 * **NYCU OSC 2021**
