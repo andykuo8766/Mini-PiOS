@@ -9,7 +9,7 @@
 * **Lab 0: [Bare Minimum](https://hackmd.io/@AndyKuo/Lab0)**
 * **Lab 1: [Multicore C](https://hackmd.io/@AndyKuo/Lab1)**
 * **Lab 2: [UART1](https://hackmd.io/@AndyKuo/Lab2)**
-
+* **Lab 3: [Mailboxes](https://hackmd.io/@AndyKuo/Lab3)**
 
 ## Reference
 * **NYCU OSC 2021**
