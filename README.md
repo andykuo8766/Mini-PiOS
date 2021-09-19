@@ -13,7 +13,10 @@
 * **Lab 4: [UART0](https://hackmd.io/@AndyKuo/Lab4)**
 * **Lab 5: [Random](https://hackmd.io/@AndyKuo/Lab5)** 
 
+[BCM2837-Broadcom Peripherals](https://cs140e.sergio.bz/docs/BCM2837-ARM-Peripherals.pdf)
+
 ## Reference
+
 * **NYCU OSC 2021**
 	* [NYCU, Operating System Capstone, Spring 2021](https://grasslab.github.io/NYCU_Operating_System_Capstone/)
 * **NCTU OSDI 2020**
