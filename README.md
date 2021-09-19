@@ -11,7 +11,7 @@
 * **Lab 2: [UART1](https://hackmd.io/@AndyKuo/Lab2)**
 * **Lab 3: [Mailboxes](https://hackmd.io/@AndyKuo/Lab3)**
 * **Lab 4: [UART0](https://hackmd.io/@AndyKuo/Lab4)**
-* **Lab 4: [Random](https://hackmd.io/@AndyKuo/Lab5)** 
+* **Lab 5: [Random](https://hackmd.io/@AndyKuo/Lab5)** 
 
 ## Reference
 * **NYCU OSC 2021**
