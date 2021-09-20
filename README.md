@@ -12,6 +12,7 @@
 * **Lab 3: [Mailboxes](https://hackmd.io/@AndyKuo/Lab3)**
 * **Lab 4: [UART0](https://hackmd.io/@AndyKuo/Lab4)**
 * **Lab 5: [Random](https://hackmd.io/@AndyKuo/Lab5)** 
+* **Lab 6: [Delays](https://hackmd.io/@AndyKuo/Lab6)** 
 
 [BCM2837-Broadcom Peripherals](https://cs140e.sergio.bz/docs/BCM2837-ARM-Peripherals.pdf)
 
