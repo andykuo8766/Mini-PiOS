@@ -13,6 +13,8 @@
 * **Lab 4: [UART0](https://hackmd.io/@AndyKuo/Lab4)**
 * **Lab 5: [Random](https://hackmd.io/@AndyKuo/Lab5)** 
 * **Lab 6: [Delays](https://hackmd.io/@AndyKuo/Lab6)** 
+* **Lab 7: [Power management](https://hackmd.io/@AndyKuo/Lab7)** 
+
 
 To be continued ...
 
