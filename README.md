@@ -14,7 +14,7 @@
 * **Lab 5: [Random](https://hackmd.io/@AndyKuo/Lab5)** 
 * **Lab 6: [Delays](https://hackmd.io/@AndyKuo/Lab6)** 
 * **Lab 7: [Power management](https://hackmd.io/@AndyKuo/Lab7)** 
-
+* **Lab 8: [Framebuffer](https://hackmd.io/@AndyKuo/Lab8)** 
 
 To be continued ...
 
