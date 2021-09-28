@@ -3,6 +3,7 @@
 
 void main()
 {
+    //Lab 3: Mailboxes
     // set up serial console
     uart_init();
     
