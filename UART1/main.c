@@ -2,6 +2,7 @@
 
 void main()
 {
+    //Lab 2: UART1
     // set up serial console
     uart_init();
     
