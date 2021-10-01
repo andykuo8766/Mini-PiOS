@@ -18,6 +18,11 @@
 * **Lab 9: [PC Screen Font](https://hackmd.io/@AndyKuo/Lab9)** 
 
 To be continued ...
+* **Lab 10: [Read Sector](https://hackmd.io/@AndyKuo/Lab10)** 
+* **Lab 11: [Directory](https://hackmd.io/@AndyKuo/Lab11)** 
+* **Lab 12: [Read File](https://hackmd.io/@AndyKuo/Lab12)** 
+
+
 
 [BCM2837-Broadcom Peripherals](https://cs140e.sergio.bz/docs/BCM2837-ARM-Peripherals.pdf)
 
