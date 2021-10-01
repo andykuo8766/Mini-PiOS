@@ -33,5 +33,4 @@ To be continued ...
 	* [Operating system tutorials in rust](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
 	* [Raspberry pi officical github](https://github.com/raspberrypi/)
 	* [Embedded linux wiki page for Raspberry pi](https://elinux.org/RPi_Hub)
-	
-	
+	* [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
