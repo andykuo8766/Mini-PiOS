@@ -19,3 +19,6 @@ clean:
 
 run:
 	qemu-system-aarch64 -M raspi3 -kernel kernel8.img -d in_asm
+	
+pi:
+	sudo screen /dev/ttyUSB0 115200
