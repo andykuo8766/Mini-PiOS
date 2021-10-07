@@ -3,7 +3,8 @@
 
 void main()
 {
-#if defined Lab == 1
+#if Lab == 1
+    //Lab 1: Multicore C
     while(1);
 #endif
 }
