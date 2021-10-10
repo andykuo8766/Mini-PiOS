@@ -33,9 +33,13 @@ To be continued ...
 * **NCTU OSDI 2020**
 	* [NCTU, Operating System Design & Implementation, Spring 2020](https://grasslab.github.io/osdi/en/index.html)
 * **External Reference**	
-	* [Bare metal tutorials in C](https://github.com/bztsrc/raspi3-tutorial)
-	* [Operating system tutorials in C](https://github.com/s-matyukevich/raspberry-pi-os)
-	* [Operating system tutorials in rust](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
-	* [Raspberry pi officical github](https://github.com/raspberrypi/)
-	* [Embedded linux wiki page for Raspberry pi](https://elinux.org/RPi_Hub)
-	* [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
+	* Pi 3B+
+		* [Bare metal tutorials in C](https://github.com/bztsrc/raspi3-tutorial)
+		* [Operating system tutorials in C](https://github.com/s-matyukevich/raspberry-pi-os)
+		* [Operating system tutorials in rust](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
+		* [Raspberry pi officical github](https://github.com/raspberrypi/)
+		* [Embedded linux wiki page for Raspberry pi](https://elinux.org/RPi_Hub)
+		* [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
+		* [GitHub/Brian Sidebotham : Bare Metal Tutorials](https://www.valvers.com/)
+	* Pi 4	
+		* [Writing a "bare metal" operating system for Raspberry Pi 4](https://github.com/isometimes/rpi4-osdev)
