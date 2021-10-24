@@ -6,6 +6,7 @@
 | `andykuo8766` | `郭紘安` | andykuo8766@gapp.nthu.edu.tw |
 
 ## Labs
+
 * **Lab 0: [Bare Minimum](https://hackmd.io/@AndyKuo/Lab0)**
 * **Lab 1: [Multicore C](https://hackmd.io/@AndyKuo/Lab1)**
 * **Lab 2: [UART1](https://hackmd.io/@AndyKuo/Lab2)**
@@ -14,10 +15,12 @@
 * **Lab 5: [Random](https://hackmd.io/@AndyKuo/Lab5)** 
 * **Lab 6: [Delays](https://hackmd.io/@AndyKuo/Lab6)** 
 * **Lab 7: [Power management](https://hackmd.io/@AndyKuo/Lab7)** 
+
+### To be fixed ...
 * **Lab 8: [Framebuffer](https://hackmd.io/@AndyKuo/Lab8)** 
 * **Lab 9: [PC Screen Font](https://hackmd.io/@AndyKuo/Lab9)** 
 
-To be continued ...
+### To be continued ...
 * **Lab 10: [Read Sector](https://hackmd.io/@AndyKuo/Lab10)** 
 * **Lab 11: [Directory](https://hackmd.io/@AndyKuo/Lab11)** 
 * **Lab 12: [Read File](https://hackmd.io/@AndyKuo/Lab12)** 
