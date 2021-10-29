@@ -25,9 +25,9 @@
 * **Lab 11: [Directory](https://hackmd.io/@AndyKuo/Lab11)** 
 * **Lab 12: [Read File](https://hackmd.io/@AndyKuo/Lab12)** 
 
-
-
-[BCM2837-Broadcom Peripherals](https://cs140e.sergio.bz/docs/BCM2837-ARM-Peripherals.pdf)
+## Raspberry Pi 3 B+
+* [Arm Cortex-A53 MPCore Processor Technical Reference Manual](https://documentation-service.arm.com/static/6040c321ee937942ba301626?token=)
+* [BCM2837-Broadcom Peripherals](https://cs140e.sergio.bz/docs/BCM2837-ARM-Peripherals.pdf)
 
 ## Reference
 
