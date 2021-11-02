@@ -1,7 +1,7 @@
 # My Bare Metal Programming on Raspberry Pi 3 B+
 
 ## Author
-| GitHub account | Name | Email |
+| GitHub Account | Name | Email |
 | ----------- | --- | --- |
 | `andykuo8766` | `Andy Kuo` | andykuo8766@gapp.nthu.edu.tw |
 
