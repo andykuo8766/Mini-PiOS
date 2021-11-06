@@ -20,10 +20,11 @@
 * **Lab 8: [Framebuffer](https://hackmd.io/@AndyKuo/Lab8)** 
 * **Lab 9: [PC Screen Font](https://hackmd.io/@AndyKuo/Lab9)** 
 * **Lab 10: [Read Sector](https://hackmd.io/@AndyKuo/Lab10)** 
-* **Lab 11: [Directory](https://hackmd.io/@AndyKuo/Lab11)** 
 
 ### To be continued ...
+* **Lab 11: [Directory](https://hackmd.io/@AndyKuo/Lab11)** 
 * **Lab 12: [Read File](https://hackmd.io/@AndyKuo/Lab12)** 
+* **Lab 12: [Initial_RamDisk](https://hackmd.io/@AndyKuo/Lab13)** 
 
 ## Raspberry Pi 3 B+
 * [Arm Cortex-A53 MPCore Processor Technical Reference Manual](https://documentation-service.arm.com/static/6040c321ee937942ba301626?token=)
