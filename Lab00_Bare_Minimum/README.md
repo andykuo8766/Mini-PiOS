@@ -1,4 +1,4 @@
-Tutorial 00 - Bare Minimum
+Lab 0 - Bare Minimum
 ==========================
 Just test our toolchain. The resulting kernel8.img should boot on Raspberry Pi, and stop the CPU cores in an infinite loop. You can check that by running
 
