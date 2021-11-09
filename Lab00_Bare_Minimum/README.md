@@ -17,7 +17,17 @@ Linker script
 Not surpisingly simple too. We just set the base address where our kernel8.img will be loaded, and we put the only section we have there.
 > For AArch64 the load address is 0x80000, and not 0x8000 as with AArch32.
 
+
+
 How to run
+==========================
 ```sh
 $ make
+$ make run
+```
+
+How to clean
+==========================
+```sh
+$ make clean
 ```
