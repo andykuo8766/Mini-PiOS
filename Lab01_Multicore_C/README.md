@@ -6,6 +6,7 @@ Assembly
 Now we have to distinguish the cores. For that, we read the mpidr_el1 system register. If it's not zero, we'll do the former infinite loop. If it's zero, then we'll call a C function. But for that, we need a proper stack, and a zerod out bss segment in memory before the call instruction. I've added some more code to the Assembly to do all of that. In case the C code returns (shouldn't), we also jump to the same infinite loop the other CPU cores running.
 
 > NOTE: depending on your firmware version, it is possible that application cores are stopped. If that's the case then our code only runs on Core 0, but there's no harm in checking the core number. To start the other cores, you have to write an address of a function to execute at 0xE0, 0xE8, 0xF0 (one address for each core, in order).
+
 [Arm Cortex-A53 MPCore Processor Technical Reference Manual](https://developer.arm.com/documentation/ddi0500/latest/)
 
 
