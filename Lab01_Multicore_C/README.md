@@ -1,4 +1,4 @@
-Lab 0 - Multicore C
+Lab 1 - Multicore C
 ==========================
 
 Assembly
