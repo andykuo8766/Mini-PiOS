@@ -15,10 +15,3 @@ How to clean
 ```sh
 $ make clean
 ```
-
-References
-==========================
-https://github.com/raspberrypi/firmware/wiki/Accessing-mailboxes
-https://jsandler18.github.io/extra/mailbox.html
-https://blog.csdn.net/suz_cheney/article/details/86027172
-https://grasslab.github.io/osdi/en/hardware/mailbox.html#mailbox
