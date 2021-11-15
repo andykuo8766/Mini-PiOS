@@ -20,8 +20,9 @@
 * **Lab 10: [Read Sector](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab10_Read_Sector)** 
 * **Lab 11: [Directory](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab11_Directory)** 
 * **Lab 12: [Read File](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab12_Read_File)** 
-* **Lab 12: [Initial_RamDisk](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab13_Initial_RamDisk)** 
-* **Lab 13:  [Execution levels](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab14_Execution_Levels)** 
+* **Lab 13: [Initial_RamDisk](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab13_Initial_RamDisk)** 
+* **Lab 14:  [Execution levels](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab14_Execution_Levels)** 
+* **Lab 15:  [Virtual Memory](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab15_Virtual_Memory)** 
 
 ### To be fixed ...
 
