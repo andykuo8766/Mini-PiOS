@@ -8,10 +8,11 @@ This means if you connect some devices to them, you'll have to implement a way t
 
 Power.c Power.h
 ==========================
-The power management controller is one of the peripherals that are not emulated properly by qemu. Works on real hardware though.
+The power management controller is one of the peripherals that are not emulated properly by qemu. Works on real hardware though.  
+
 ```power_off()```  shutdowns the board to a almost zero power consumption state.
 
-```reset()``` reboots the machine. Also handled by the PMC, and since the Raspberry Pi does not have a hardware reset button, it's very useful.
+```reset()```  reboots the machine. Also handled by the PMC, and since the Raspberry Pi does not have a hardware reset button, it's very useful.
 
 How to run
 ==========================
