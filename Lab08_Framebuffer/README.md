@@ -8,7 +8,6 @@ Also note that the GPU on the Raspberry Pi is very powerful. You can create a la
 
 Lfb.c Lfb.h
 ==========================
-The power management controller is one of the peripherals that are not emulated properly by qemu. Works on real hardware though.  
 
 ```lfb_init()``` sets up resolution, depth, and color channel order. Also queries framebuffer's address.
 
