@@ -24,10 +24,16 @@
 * **Lab 14:  [Execution levels](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab14_Execution_Levels)** 
 * **Lab 15:  [Virtual Memory](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab15_Virtual_Memory)** 
 
-### To be fixed ...
+## How to run
+```sh
+$ make
+$ make run
+```
 
-### To be continued ...
-
+## How to clean
+```sh
+$ make clean
+```
 
 ## Raspberry Pi 3 B+
 * [Arm Cortex-A53 MPCore Processor Technical Reference Manual](https://documentation-service.arm.com/static/6040c321ee937942ba301626?token=)
