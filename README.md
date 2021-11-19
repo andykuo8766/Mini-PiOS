@@ -27,7 +27,7 @@
 * **Lab 17:  [Printf]()**
 * **Lab 18:  [Debugger]()**
 * **Lab 19:  [Raspbootin64]()**
-* **Lab 19:  [Write Sector]()**
+* **Lab 20:  [Write Sector]()**
 
 ## How to run
 ```sh
