@@ -24,7 +24,7 @@ Attrib Cluster  Size     Name
 
 Fat.c Fat.h
 ==========================
-This is easy and pretty well documented. We have to read the MBR, locate our partition, and load it's first sector (Volume Boot Record). That has the BIOS Parameter Block, which describes the FAT file system.
+This is easy and pretty well documented. We have to read the MBR, locate our partition, and load it's first sector (Volume Boot Record). That has the BIOS Parameter Block, which describes the FAT file system.  
 ```fat_getpartition()``` load and check the boot record of the first MBR partition.
 
 ```fat_listdirectory()``` list root directory entries on the volume.
