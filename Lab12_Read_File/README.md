@@ -28,9 +28,9 @@ This is also easy and pretty well documented. We locate the directory entry for 
 
 ```fat_getpartition()``` load and check the boot record of the first MBR partition.
 
-```fat_getcluster(fn)``` return the starting cluster for the given filename.
+```fat_getcluster(filename)``` return the starting cluster for the given filename.
 
-```fat_readfile(clu)``` reads a file into memory, returns pointer to the first byte.
+```fat_readfile(cluster)``` reads a file into memory, returns pointer to the first byte.
 
 
 Main.c
