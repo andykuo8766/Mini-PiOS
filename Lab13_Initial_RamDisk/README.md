@@ -14,18 +14,18 @@ Second, about loading your ramdisk into memory, we have several options:
 
 ## Ramdisk into memory
 
-* Load a file on our own
-You can use the ```fat_readfile()``` from the previous tutorial. In that case your initrd's address will be returned by the function.
+* Load a file on our own  
+        You can use the ```fat_readfile()``` from the previous tutorial. In that case your initrd's address will be returned by the function.
 
-* Ask the GPU to do so
-You can use config.txt to tell start.elf to load the initrd for you. With this you won't need any SD card reader or FAT parser at all, resulting in a much smaller kernel. As for the config.txt, you have two options:
+* Ask the GPU to do so  
+        You can use config.txt to tell start.elf to load the initrd for you. With this you won't need any SD card reader or FAT parser at all, resulting in a much smaller kernel. As for the config.txt, you have two options:
 
-```ramfsfile=(filename)``` this will load (filename) after your kernel. You can access it at the label &_end defined by our linker script.
+        * ```ramfsfile=(filename)``` this will load (filename) after your kernel. You can access it at the label &_end defined by our linker script.  
 
-```initramfs (filename) (address)``` load (filename) into a specified location. You can access it at (address).
+        * ```initramfs (filename) (address)``` load (filename) into a specified location. You can access it at (address).  
 
-* Statically link
-This is not very practical because you have to build your kernel every time you want to change the initrd. But it is the simplest method, and to keep this tutorial simple we'll use this method. You can access the initrd by the label _binary_ramdisk_start.
+* Statically link  
+        This is not very practical because you have to build your kernel every time you want to change the initrd. But it is the simplest method, and to keep this tutorial simple we'll use this method. You can access the initrd by the label _binary_ramdisk_start.
 
 
 
