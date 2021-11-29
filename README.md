@@ -25,7 +25,7 @@
 * **Lab 15:  [Virtual Memory](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab15_Virtual_Memory)** 
 * **Lab 16:  [Exceptions](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab16_Exceptions)** 
 * **Lab 17:  [Printf]()**
-* **Lab 18:  [Debugger]()**
+* **Lab 18:  [Debugger](https://github.com/andykuo8766/Mini-PiOS/tree/main/Lab18_Debugger)**
 * **Lab 19:  [Raspbootin64]()**
 * **Lab 20:  [Write Sector]()**
 
