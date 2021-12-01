@@ -1,4 +1,4 @@
-# Lab 15 - Exceptions
+# Lab 16 - Exceptions
 
 Last time we have used a very simple translation scheme, but in real life you often need more. And it is not
 easy to write the table blindly, so we're going to add exception handlers this time. This will print out some
